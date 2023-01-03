@@ -6,7 +6,7 @@ body {
     margin: auto; 
     width: 350px; 
     height: 400px; 
-    margin-top: 100px;
+    margin-top: 200px;
     padding: 20px; 
     border-radius: 10px;
     background-color: rgb(220, 220, 220);
@@ -17,4 +17,9 @@ button {
     border: none;
     background-color: rgb(255, 255, 255);
     width: 80px; 
+}
+
+button:hover {
+    color: blue; 
+    background-color: rgb(206, 204, 204);
 }
