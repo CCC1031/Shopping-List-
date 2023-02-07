@@ -1,0 +1,19 @@
+{
+  "name": "shopping-list-",
+  "version": "1.0.0",
+  "description": "https://ccc1031.github.io/Shopping-List-/",
+  "main": "scr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CCC1031/Shopping-List-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CCC1031/Shopping-List-/issues"
+  },
+  "homepage": "https://github.com/CCC1031/Shopping-List-#readme"
+}
