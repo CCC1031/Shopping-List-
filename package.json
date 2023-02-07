@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/CCC1031/Shopping-List-/issues"
   },
-  "homepage": "https://github.com/CCC1031/Shopping-List-#readme"
+  "homepage": "https://github.com/CCC1031/Shopping-List-#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
